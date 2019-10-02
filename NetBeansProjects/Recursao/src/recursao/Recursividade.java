@@ -3,7 +3,7 @@ package recursao;
 public class Recursividade {
 
     public static int fatorial(int n) {
-//base da recursão (condição de parada)
+        //base da recursão (condição de parada)
         if (n == 0) {
             return 1;
         } else {
